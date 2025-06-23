@@ -75,14 +75,23 @@ Advance to the next level
 Game Elements
 Element	Symbol	Description
 Player	🟥	Character you control
+
 Enemies	🟪	Touch them and you die
+
 Bombs	💣	Explode after 3 seconds
+
 Explosions	🔥	Destroy blocks and kill enemies
+
 Destructible Walls	🧱	Hide power-ups and exits
+
 Indestructible Walls	⬛	Permanent barriers
+
 Bomb Power-up	💙	Increases bomb capacity
+
 Range Power-up	💛	Increases explosion range
+
 Exit	🟩	Complete level after killing enemies
+
 Project Structure
 plaintext
 mini-bomberman/
